@@ -6,4 +6,4 @@
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
-[Shout] is a great web IRC client that you host on your own server - in this case, in an Azure Web App. Just click the "Deploy to Azure" button to get started!
+[Shout](http://shout-irc.com/) is a great web IRC client that you host on your own server - in this case, in an Azure Web App. Just click the "Deploy to Azure" button to get started!
